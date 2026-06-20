@@ -2,11 +2,9 @@
 
 > An **offline, privacy-preserving** AI system that analyzes video input and provides comprehensive, personalized feedback on your public speaking skills.
 
-**By:** Srushti B S, Sinchana Shetty B N, Yukthi C  
-**Department:** CSE (Data Science), RNSIT  
-**Guide:** Ms. Rachitha E (Asst. Professor)
 
----
+
+
 
 ## 📌 What It Does
 
@@ -175,4 +173,4 @@ JSON Response → React Dashboard
 
 ## 📄 License
 
-Academic project — RNSIT, Department of CSE (Data Science). For educational use.
+
