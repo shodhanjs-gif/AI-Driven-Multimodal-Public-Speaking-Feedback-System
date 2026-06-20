@@ -1,0 +1,11 @@
+flask
+flask-cors
+flask-compress
+opencv-python
+mediapipe==0.10.14
+librosa
+moviepy
+numpy<2
+SpeechRecognition
+openai-whisper
+imageio[ffmpeg]
